@@ -1,3 +1,3 @@
 # MoneyMentor
 
-This is only a part of the complete project, only considering the user interface portion.
+This project report delves into the evolution of a self-hosted personal finance tracking web application designed to revolutionize financial management for individuals. With a primary focus on providing a user-friendly interface for recording income, expenses, and categorizing transactions, the application stands out for its innovative feature of parsing transactions. Moreover, the application goes beyond basic transaction recording by offering insightful analyses, budgeting suggestions, and predictive analytics, empowering users to make informed financial decisions and enhance their financial well-being. Notably, its self-hosted nature ensures complete control over data privacy and security.
